@@ -1,23 +1,67 @@
-# 💫 About Me:
-## Computer Science student passionate about building things and learning how the web works. Currently exploring full-stack development and sharpening my problem-solving skills one project at a time. Always open to collaborating and growing. ##
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
+<img src="https://i.pinimg.com/originals/ac/63/f8/ac63f8fec3b7a789417e9443bf895e94.gif" >
 
+<br />
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smittrabarii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smitrabari) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/smittrabarii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smitrabari18@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=smitrabari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=smitrabari&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=smitrabari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+<a href="https://instagram.com/smittrabarii" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/smitrabari" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/smittrabarii" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+
+</div>
+
+<br>
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=smitrabari&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 💻 Tech Stack:
 
----
-[![](https://visitcount.itsvg.in/api?id=smitrabari&icon=2&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="#" target="_blank">
+<img src="https://skillicons.dev/icons?i=html,css,c,python,notion,git,bash=11" />
+</a>
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats:
+
+<div align="center">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smitrabari&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smitrabari&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smitrabari&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smitrabari&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smitrabari&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=smitrabari&theme=radical&hide_border=false&hide=contribs,stars&show=prs_merged,prs_merged_percentage">
+<img height="169em" src="https://nirzak-streak-stats.vercel.app?user=smitrabari&theme=radical">
+
+</div><br>
+
+# 🏆 Trophies
+
+<div align="center">
+<img src="https://github-trophies.vercel.app/?username=smitrabari&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
+</div>
+
+<hr>
+
+<p align="center">
+  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/siddheyakue" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
+  </a>
+</p>
+
+<hr>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=smitrabari&color=red" alt="Total Github views" />
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
