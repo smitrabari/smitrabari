@@ -22,7 +22,7 @@
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,c,cpp,python,java,mysql,notion,git,bash=11" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,c,cpp,python,java,mysql,notion,git,bash=11" />
 </a>
 
 </div>
