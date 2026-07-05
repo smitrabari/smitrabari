@@ -6,20 +6,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=150&section=header&text=About%20Me&fontSize=45&fontAlign=50&fontAlignY=45&fontColor=ffffff" alt="About Me Banner" width="100%">
 
-<p align="center">Hi, I am Smit Rabari, a B.Tech Computer Science Engineering student at PP Savani University. I am passionate about software development and problem-solving.</p>
-
-<p align="center">Currently, I’m focused on strengthening my Data Structures & Algorithms (DSA) skills using C++ while learning Full Stack Web Development. I believe in learning by building, so I’m continuously working on projects, solving coding problems, and improving my development skills.</p>
-
-<p align="center"><b>My current focus areas include:</b><br>
-Data Structures & Algorithms in C++<br>
-Full Stack Web Development<br>
-Problem Solving & Logical Thinking<br>
-Building real-world projects<br>
-Git, GitHub & collaborative development</p>
-
-<p align="center">I’m actively working toward becoming a strong software developer and preparing myself for future internship and placement opportunities. My goal is to build solid fundamentals, contribute to meaningful projects, and continuously grow through practical experience.</p>
-
-<p align="center">I’m always open to connecting with developers, seniors, mentors, and fellow students to exchange knowledge, learn from experiences, and explore opportunities. Let’s connect and grow together!</p>
+<p align="center">
+  <img
+    src="about-me.svg"
+    alt="About Me"
+    width="100%"
+  />
+</p>
 
 <br />
 
