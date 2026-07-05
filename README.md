@@ -48,13 +48,6 @@
 
 </div>
 
-<hr>
-
-<p align="center">
-  <b>Thanks for visiting my profile! If you like my work, feel free to follow — I'll follow back. Let's grow together! 🚀</b>
-</p>
-
-<hr>
 
 <div align="center">
 <p align="center">
