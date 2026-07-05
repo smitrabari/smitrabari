@@ -12,13 +12,13 @@
 
     .about-text {
       font-family: "Yuyu", cursive;
-      font-size: 25px;
+      font-size: 20px;
       fill: #ffffff;
     }
 
     .focus-title {
       font-family: "Yuyu", cursive;
-      font-size: 27px;
+      font-size: 23px;
       font-weight: bold;
       fill: #99f2c8;
     }
