@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
-
-<img src="https://i.pinimg.com/originals/ac/63/f8/ac63f8fec3b7a789417e9443bf895e94.gif" >
+<img src="New banner.png" >
 
 <br />
 
@@ -54,5 +52,3 @@
 
 <hr>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=smitrabari&color=red" alt="Total Github views" />
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
