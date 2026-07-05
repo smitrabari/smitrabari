@@ -29,9 +29,10 @@
 <div align="center">
 
 [![x](https://www.readmecodegen.com/api/social-icon?name=x&size=40&color=%23ffffff&showText=true&link=https%3A%2F%2Fx.com%2Fsmittrabarii)](https://x.com/smittrabarii)
-[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=40&showText=true&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsmitrabari%2F)](https://www.linkedin.com/in/smitrabari/)
+[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=42&color=%23ffffff&showText=true&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsmitrabari%2F)](https://www.linkedin.com/in/smitrabari/)
 [![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&size=40&color=%23ffffff&showText=true&textColor=%23ffffff&link=https%3A%2F%2Fwww.instagram.com%2Fsmittrabarii%2F)](https://www.instagram.com/smittrabarii/)
-
+[![reddit](https://www.readmecodegen.com/api/social-icon?name=reddit&size=40&color=%23ffffff&showText=true&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2Fsmitrabari%2F)](https://www.reddit.com/user/smitrabari/)
+[![discord](https://www.readmecodegen.com/api/social-icon?name=discord&size=40&color=%23ffffff&showText=true&link=https%3A%2F%2Fdiscord.com%2Fusers%2F1470111611837480972)](https://discord.com/users/1470111611837480972)
 </div>
 
 <br>
