@@ -2,7 +2,25 @@
 
 <br />
 
-## 🌐 Socials:
+<h1 align = "center">About Me</h1>
+<p align="center">Hi, I am Smit Rabari, a B.Tech Computer Science Engineering student at PP Savani University. I am passionate about software development and problem-solving.</p>
+ 
+<p align="center">Currently, I’m focused on strengthening my Data Structures & Algorithms (DSA) skills using C++ while learning Full Stack Web Development. I believe in learning by building, so I’m continuously working on projects, solving coding problems, and improving my development skills.</p>
+ 
+<p align="center"><b>My current focus areas include:</b><br>
+ Data Structures & Algorithms in C++<br>
+ Full Stack Web Development<br>
+ Problem Solving & Logical Thinking<br>
+ Building real-world projects<br>
+ Git, GitHub & collaborative development</p>
+ 
+<p align="center">I’m actively working toward becoming a strong software developer and preparing myself for future internship and placement opportunities. My goal is to build solid fundamentals, contribute to meaningful projects, and continuously grow through practical experience.</p>
+ 
+<p align="center">I’m always open to connecting with developers, seniors, mentors, and fellow students to exchange knowledge, learn from experiences, and explore opportunities. Let’s connect and grow together!</p>
+
+<br />
+
+<h1 align = "center">Socials</h1>
 
 <div align="center">
 
@@ -14,8 +32,7 @@
 
 <br>
 
-
-## 💻 Tech Stack:
+<h1 align = "center">Tech Stack</h1>
 
 <div align="center">
 
@@ -29,7 +46,8 @@
 
 <br>
 
-## 📊 GitHub Stats:
+<h1 align = "center">GitHub Stats</h1>
+
 
 <div align="center">
 
@@ -38,11 +56,7 @@
 
 </div><br>
 
-# 🏆 Trophies
-
-<div align="center">
-<img src="https://github-trophies.vercel.app/?username=smitrabari&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
-</div>
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=smitrabari&theme=react-dark&hide_border=true&area=true)
 
 <hr>
 
@@ -51,4 +65,7 @@
 </p>
 
 <hr>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=smitrabari&color=red" alt="Total Github views" />
+<div align="center">
+<p align="center">
+<br><img src="https://komarev.com/ghpvc/?username=smitrabari&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" />
+</p>
