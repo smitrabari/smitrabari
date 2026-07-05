@@ -1,0 +1,123 @@
+<svg
+  width="1000"
+  height="700"
+  viewBox="0 0 1000 700"
+  xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    @font-face {
+      font-family: "Yuyu";
+      src: url("Yuyu-Regular.ttf") format("truetype");
+    }
+
+    .about-text {
+      font-family: "Yuyu", cursive;
+      font-size: 25px;
+      fill: #ffffff;
+    }
+
+    .focus-title {
+      font-family: "Yuyu", cursive;
+      font-size: 27px;
+      font-weight: bold;
+      fill: #99f2c8;
+    }
+  </style>
+
+  <!-- Main introduction -->
+  <text x="500" y="45"
+        text-anchor="middle"
+        class="about-text">
+
+    <tspan x="500" dy="0">
+      Hi, I am Smit Rabari, a B.Tech Computer Science Engineering
+    </tspan>
+
+    <tspan x="500" dy="35">
+      student at PP Savani University. I am passionate about
+    </tspan>
+
+    <tspan x="500" dy="35">
+      software development and problem-solving.
+    </tspan>
+
+    <!-- Second paragraph -->
+    <tspan x="500" dy="60">
+      Currently, I’m focused on strengthening my Data Structures
+    </tspan>
+
+    <tspan x="500" dy="35">
+      &amp; Algorithms (DSA) skills using C++ while learning Full Stack
+    </tspan>
+
+    <tspan x="500" dy="35">
+      Web Development. I believe in learning by building, so I’m
+    </tspan>
+
+    <tspan x="500" dy="35">
+      continuously working on projects and solving coding problems.
+    </tspan>
+
+  </text>
+
+  <!-- Focus title -->
+  <text x="500"
+        y="310"
+        text-anchor="middle"
+        class="focus-title">
+    My current focus areas include:
+  </text>
+
+  <!-- Focus list -->
+  <text x="500"
+        y="355"
+        text-anchor="middle"
+        class="about-text">
+
+    <tspan x="500" dy="0">
+      Data Structures &amp; Algorithms in C++
+    </tspan>
+
+    <tspan x="500" dy="35">
+      Full Stack Web Development
+    </tspan>
+
+    <tspan x="500" dy="35">
+      Problem Solving &amp; Logical Thinking
+    </tspan>
+
+    <tspan x="500" dy="35">
+      Building real-world projects
+    </tspan>
+
+    <tspan x="500" dy="35">
+      Git, GitHub &amp; collaborative development
+    </tspan>
+
+  </text>
+
+  <!-- Final paragraphs -->
+  <text x="500"
+        y="555"
+        text-anchor="middle"
+        class="about-text">
+
+    <tspan x="500" dy="0">
+      I’m actively working toward becoming a strong software developer
+    </tspan>
+
+    <tspan x="500" dy="35">
+      and preparing myself for future internship and placement opportunities.
+    </tspan>
+
+    <tspan x="500" dy="55">
+      I’m always open to connecting with developers, seniors, mentors,
+    </tspan>
+
+    <tspan x="500" dy="35">
+      and fellow students. Let’s connect and grow together!
+    </tspan>
+
+  </text>
+
+</svg>
