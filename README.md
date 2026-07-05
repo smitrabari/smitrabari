@@ -1,14 +1,17 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Yuyu&display=swap" rel="stylesheet">
+<!-- ==================== MAIN BANNER ==================== -->
 
-<img src="New banner.png">
+<img src="./assets/images/new-banner.png" alt="Main Banner" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=150&section=header&text=About%20Me&fontSize=45&fontAlign=50&fontAlignY=45&fontColor=ffffff" alt="About Me Banner" width="100%">
+
+<!-- ==================== ABOUT ME ==================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=150&section=header&text=About%20Me&fontSize=45&fontAlign=50&fontAlignY=45&fontColor=ffffff"
+     alt="About Me Banner"
+     width="100%">
 
 <p align="center">
   <img
-    src="about-me.svg"
+    src="./assets/sections/about-me.svg"
     alt="About Me"
     width="100%"
   />
@@ -16,7 +19,12 @@
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=150&section=header&text=Socials&fontSize=45&fontAlign=50&fontAlignY=45&fontColor=ffffff" alt="Socials Banner" width="100%">
+
+<!-- ==================== SOCIALS ==================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=150&section=header&text=Socials&fontSize=45&fontAlign=50&fontAlignY=45&fontColor=ffffff"
+     alt="Socials Banner"
+     width="100%">
 
 <div align="center">
 
@@ -28,30 +36,61 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=150&section=header&text=Tech%20Stack&fontSize=45&fontAlign=50&fontAlignY=45&fontColor=ffffff" alt="Tech Stack Banner" width="100%">
+
+<!-- ==================== TECH STACK ==================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=150&section=header&text=Tech%20Stack&fontSize=45&fontAlign=50&fontAlignY=45&fontColor=ffffff"
+     alt="Tech Stack Banner"
+     width="100%">
 
 <div align="center">
 
-<img src="C.svg" alt="C" width="40">&nbsp;
-<img src="CPP.svg" alt="CPP" width="40">&nbsp;
-<img src="Git.svg" alt="Git" width="40">&nbsp;
-<img src="Github-Dark.svg" alt="Github" width="40">&nbsp;
-<img src="Markdown-Dark.svg" alt="Markdown" width="40">&nbsp;
+<img src="./assets/icons/C.svg"
+     alt="C"
+     width="40">&nbsp;
+<img src="./assets/icons/CPP.svg"
+     alt="C++"
+     width="40">&nbsp;
+<img src="./assets/icons/Git.svg"
+     alt="Git"
+     width="40">&nbsp;
+<img src="./assets/icons/Github-Dark.svg"
+     alt="GitHub"
+     width="40">&nbsp;
+<img src="./assets/icons/Markdown-Dark.svg"
+     alt="Markdown"
+     width="40">&nbsp;
 <br>
-<img src="HTML.svg" alt="HTML" width="40">&nbsp;
-<img src="CSS.svg" alt="CSS" width="40">&nbsp;
-<img src="JavaScript.svg" alt="Javascript" width="40">&nbsp;
-<img src="Java-Dark.svg" alt="Java" width="40">&nbsp;
-<img src="Python-Dark.svg" alt="Python" width="40">&nbsp;
-<img src="MySQL-Dark.svg" alt="MySQL" width="40">&nbsp;
+<img src="./assets/icons/HTML.svg"
+     alt="HTML"
+     width="40">&nbsp;
+<img src="./assets/icons/CSS.svg"
+     alt="CSS"
+     width="40">&nbsp;
+<img src="./assets/icons/JavaScript.svg"
+     alt="JavaScript"
+     width="40">&nbsp;
+<img src="./assets/icons/Java-Dark.svg"
+     alt="Java"
+     width="40">&nbsp;
+<img src="./assets/icons/Python-Dark.svg"
+     alt="Python"
+     width="40">&nbsp;
+<img src="./assets/icons/MySQL-Dark.svg"
+     alt="MySQL"
+     width="40">&nbsp;
 <br>
 
 </div>
 
 
+<!-- ==================== PROFILE VIEWS ==================== -->
+
 <div align="center">
-<p align="center">
+
 <br>
- <img src="https://komarev.com/ghpvc/?username=smitrabari&label=Profile%20views&color=0e75b6&style=flat" alt="smitrabari" />
-</p>
+
+<img src="https://komarev.com/ghpvc/?username=smitrabari&label=Profile%20views&color=0e75b6&style=flat"
+     alt="smitrabari" />
+
 </div>
