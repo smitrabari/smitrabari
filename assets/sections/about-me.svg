@@ -7,7 +7,7 @@
   <style>
     @font-face {
       font-family: "Yuyu";
-      src: url("Yuyu-Regular.ttf") format("truetype");
+      src: url("../fonts/Yuyu-Regular.ttf") format("truetype");
     }
 
     .about-text {
@@ -24,10 +24,13 @@
     }
   </style>
 
-  <!-- Main introduction -->
-  <text x="500" y="45"
-        text-anchor="middle"
-        class="about-text">
+  <!-- Main Introduction -->
+
+  <text
+    x="500"
+    y="45"
+    text-anchor="middle"
+    class="about-text">
 
     <tspan x="500" dy="0">
       Hi, I am Smit Rabari, a B.Tech Computer Science Engineering
@@ -41,7 +44,8 @@
       software development and problem-solving.
     </tspan>
 
-    <!-- Second paragraph -->
+    <!-- Second Paragraph -->
+
     <tspan x="500" dy="60">
       Currently, I’m focused on strengthening my Data Structures
     </tspan>
@@ -60,19 +64,27 @@
 
   </text>
 
-  <!-- Focus title -->
-  <text x="500"
-        y="310"
-        text-anchor="middle"
-        class="focus-title">
+
+  <!-- Focus Title -->
+
+  <text
+    x="500"
+    y="310"
+    text-anchor="middle"
+    class="focus-title">
+
     My current focus areas include:
+
   </text>
 
-  <!-- Focus list -->
-  <text x="500"
-        y="355"
-        text-anchor="middle"
-        class="about-text">
+
+  <!-- Focus Areas -->
+
+  <text
+    x="500"
+    y="355"
+    text-anchor="middle"
+    class="about-text">
 
     <tspan x="500" dy="0">
       Data Structures &amp; Algorithms in C++
@@ -96,11 +108,14 @@
 
   </text>
 
-  <!-- Final paragraphs -->
-  <text x="500"
-        y="555"
-        text-anchor="middle"
-        class="about-text">
+
+  <!-- Final Paragraphs -->
+
+  <text
+    x="500"
+    y="555"
+    text-anchor="middle"
+    class="about-text">
 
     <tspan x="500" dy="0">
       I’m actively working toward becoming a strong software developer
