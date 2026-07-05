@@ -35,17 +35,19 @@
 
 <h1 align = "center">Tech Stack</h1>
 
-![Python]([https://img.shields.io/badge/-Python-05122A?style=flat&logo=python](https://skillicons.dev/icons?i=all))&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<img src="C.svg" alt="C" width="40">&nbsp;
+<img src="CPP.svg" alt="CPP" width="40">&nbsp;
+<img src="Git.svg" alt="Git" width="40">&nbsp;
+<img src="Github-Dark.svg" alt="Github" width="40">&nbsp;
+<img src="Markdown-Dark.svg" alt="Markdown" width="40">&nbsp;
+<br>
+<img src="HTML.svg" alt="HTML" width="40">&nbsp;
+<img src="CSS.svg" alt="CSS" width="40">&nbsp;
+<img src="JavaScript.svg" alt="Javascript" width="40">&nbsp;
+<img src="Java-Dark.svg" alt="Java" width="40">&nbsp;
+<img src="Python-Dark.svg" alt="Python" width="40">&nbsp;
+<img src="MySQL-Dark.svg" alt="MySQL" width="40">&nbsp;
+
 <br>
 </div>
 
