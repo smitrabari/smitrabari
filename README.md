@@ -48,42 +48,41 @@
 
 <img src="./assets/icons/C.svg"
      alt="C"
-     width="40">&nbsp;
+     width="50">&nbsp;
 <img src="./assets/icons/CPP.svg"
      alt="C++"
-     width="40">&nbsp;
+     width="50">&nbsp;
 <img src="./assets/icons/Git.svg"
      alt="Git"
-     width="40">&nbsp;
+     width="50">&nbsp;
 <img src="./assets/icons/Github-Dark.svg"
      alt="GitHub"
-     width="40">&nbsp;
+     width="50">&nbsp;
 <img src="./assets/icons/Markdown-Dark.svg"
      alt="Markdown"
-     width="40">&nbsp;
+     width="50">&nbsp;
 <br>
 <img src="./assets/icons/HTML.svg"
      alt="HTML"
-     width="40">&nbsp;
+     width="50">&nbsp;
 <img src="./assets/icons/CSS.svg"
      alt="CSS"
-     width="40">&nbsp;
+     width="50">&nbsp;
 <img src="./assets/icons/JavaScript.svg"
      alt="JavaScript"
-     width="40">&nbsp;
+     width="50">&nbsp;
 <img src="./assets/icons/Java-Dark.svg"
      alt="Java"
-     width="40">&nbsp;
+     width="50">&nbsp;
 <img src="./assets/icons/Python-Dark.svg"
      alt="Python"
-     width="40">&nbsp;
+     width="50">&nbsp;
 <img src="./assets/icons/MySQL-Dark.svg"
      alt="MySQL"
-     width="40">&nbsp;
+     width="50">&nbsp;
 <br>
 
 </div>
-
 
 <!-- ==================== PROFILE VIEWS ==================== -->
 
