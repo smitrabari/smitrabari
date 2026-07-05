@@ -24,39 +24,31 @@
 
 <div align="center">
 
-<a href="https://instagram.com/smittrabarii" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/smitrabari" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/smittrabarii" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-
+[![x](https://www.readmecodegen.com/api/social-icon?name=x&size=40&color=%23ffffff&showText=true&link=https%3A%2F%2Fx.com%2Fsmittrabarii)](https://x.com/smittrabarii)
+[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=40&showText=true&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsmitrabari%2F)](https://www.linkedin.com/in/smitrabari/)
+[![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&size=40&color=%23ffffff&showText=true&textColor=%23ffffff&link=https%3A%2F%2Fwww.instagram.com%2Fsmittrabarii%2F)](https://www.instagram.com/smittrabarii/)
 </div>
 
 <br>
+
+<div align="center">
 
 <h1 align = "center">Tech Stack</h1>
 
-<div align="center">
-
-<a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,c,cpp" />
+![Python]([https://img.shields.io/badge/-Python-05122A?style=flat&logo=python](https://skillicons.dev/icons?i=all))&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br>
-<img src="https://skillicons.dev/icons?i=python,java,mysql,notion,git" />
-</a>
-
 </div>
 
-<br>
-
-<h1 align = "center">GitHub Stats</h1>
-
-
-<div align="center">
-
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smitrabari&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smitrabari&theme=radical">
-
-</div><br>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=smitrabari&theme=react-dark&hide_border=true&area=true)
 
 <hr>
 
