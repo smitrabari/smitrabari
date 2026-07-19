@@ -90,7 +90,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=smitrabari&label=Profile%20views&color=0e75b6&style=flat"
-     alt="smitrabari" />
+<img src="https://komarev.com/ghpvc/?username=smitrabari&abbreviated=true&label=Profile%20views&color=0e75b6&style=plastic" alt="smitrabari" />
 
 </div>
