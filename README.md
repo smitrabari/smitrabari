@@ -61,11 +61,17 @@
 <img src="./assets/icons/Markdown-Dark.svg"
      alt="Markdown"
      width="50">&nbsp;
+<img src="./assets/icons/MySQL-Dark.svg"
+     alt="MySQL"
+     width="50">&nbsp;
 <br>
 <img src="./assets/icons/HTML.svg"
      alt="HTML"
      width="50">&nbsp;
 <img src="./assets/icons/CSS.svg"
+     alt="CSS"
+     width="50">&nbsp;
+<img src="./assets/icons/Bootstrap.svg"
      alt="CSS"
      width="50">&nbsp;
 <img src="./assets/icons/JavaScript.svg"
@@ -76,9 +82,6 @@
      width="50">&nbsp;
 <img src="./assets/icons/Python-Dark.svg"
      alt="Python"
-     width="50">&nbsp;
-<img src="./assets/icons/MySQL-Dark.svg"
-     alt="MySQL"
      width="50">&nbsp;
 <br>
 
